@@ -1,0 +1,31 @@
+*{
+  font-family: sans-serif;
+  overflow:hidden;
+}
+
+.navbar {
+    background-color: #d3b7b7;
+    padding: 10px;
+  }
+  
+  .navList {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navItem {
+    margin-right: 20px;
+  }
+  
+  .navLink {
+    text-decoration: none;
+    color: rgb(15, 14, 14);
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .navLink:hover {
+    text-decoration: underline;
+  }

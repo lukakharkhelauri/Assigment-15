@@ -1,0 +1,18 @@
+.error {
+    color: #d9534f; 
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  .container {
+    position: relative;
+  }
+  
+  .error-icon {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    margin-right: 5px;
+    cursor: help;
+  }
